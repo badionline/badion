@@ -1,0 +1,8 @@
+School Home
+School Disabled
+Export File
+Admin (Schools, New School Regstrations,Students, Past Students,Teachers,Past Teachers,,Paymnts)
+School (Students, Past Students,Teachers,Past Teachers,Attendances,Results,Fee Payments)
+
+
+Logo in Emails

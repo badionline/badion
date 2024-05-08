@@ -1,0 +1,23 @@
+Register School
+School Received Id and password via email
+Admin Approves School
+School gets Approval email via email
+School Login
+School can change password from profile
+School Add Class
+School Add Subjects to perticular Class
+School Add Fees
+School Add Students
+Student gets id and password via email
+Student can change password from profile
+Student Pay Fees
+School Add Teacher
+School Assign Subjects to teachers
+School Assign's Class teachers
+School Add Timetable
+Class Teacher Adds Study materials
+Subjects Teacher Adds Homework
+Class Teacher Takes Attendance
+School Add Notices
+School Add Exams
+School Raises Support Ticket

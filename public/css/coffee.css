@@ -1,0 +1,148 @@
+body {
+  background-color: #eec69d;
+  font-family: "Audiowide", sans-serif;
+  padding-bottom: 50px;
+}
+
+.card,
+.card:hover {
+  background: #F9ECE0;
+  color: #885119;
+  border:none;
+  box-shadow: 6px 6px 12px #caa885,
+    -6px -6px 12px #eec69d;
+}
+
+.dropdown-menu,
+.dropdown-item {
+  background-color: #F9ECE0;
+  color: #885119;
+}
+
+.dropdown-item:hover {
+  background-color: #F9ECE0;
+  color: #885119;
+  text-decoration: underline;
+}
+
+.dark {
+  background-color: #F9ECE0;
+}
+
+.light,
+label {
+  color: #885119;
+}
+
+tr .dark {
+  background-color: #F9ECE0;
+  border-color: #caa885;
+}
+
+tr .light {
+  color: #885119;
+}
+
+.navbar {
+  background-color: #F9ECE0;
+  box-shadow: 0px 6px 12px #caa885;
+  margin-bottom: 50px;
+}
+
+.nav-link {
+  color: #885119;
+}
+
+.nav-link:hover {
+  color: #885119;
+}
+
+.navbar-collapse .nav-link:hover {
+  text-decoration: underline;
+}
+
+#mode {
+  background-color: #eec69d;
+  color: #F9ECE0;
+  border: none;
+  box-shadow: none;
+}
+
+.col-sm,.footer {
+  margin-top: 20px;
+}
+
+.footer{
+  padding-top: 20px;
+}
+
+body img {
+  margin: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #885119;
+}
+
+button {
+  margin: 20px;
+}
+
+.button,
+.button:hover ,
+.button:focus{
+  border-width: 2px;
+  background-color: transparent;
+  color: #885119;
+  border-color: #eec69d;
+}
+
+.filter{
+  background-color: #F9ECE0;
+  color: #885119;
+  border-color: #eec69d;
+}
+.filter option{
+  background-color: #F9ECE0;
+  color: #885119;
+}
+
+.fa, .fab  {
+  margin: 5px;
+}
+
+.searchinput {
+  background-color: transparent;
+  padding-left: 10px;
+  border-color: #caa885;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  display: none;
+}
+
+::-webkit-resizer {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #caa885;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #885119;
+  border-radius: 10px;
+}
+
+::placeholder {
+  color: #885119;
+}
